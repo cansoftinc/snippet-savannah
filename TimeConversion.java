@@ -47,7 +47,7 @@ public class Solution {
       if(dayEve.equals("AM")){
           rx=(hour.equals("12")?"00":hour)+":"+min+":"+sec;
       } else{
-          rx=(hour.equals("12")?hour:(Integer.parseInt(hour)+12)+":"+min+":"+sec);
+          rx=((hour.equals("12")?hour:(Integer.parseInt(hour)+12))+":"+min+":"+sec);
       }
          return rx;   
 
