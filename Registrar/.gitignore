@@ -1,0 +1,8 @@
+*.class
+
+#folders#
+/build
+/dist
+
+# Packaged files #
+*.jar
