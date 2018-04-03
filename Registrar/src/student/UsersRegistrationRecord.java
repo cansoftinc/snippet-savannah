@@ -107,9 +107,9 @@ public class UsersRegistrationRecord extends javax.swing.JFrame {
                 this.hide();
                 UsersRegistration frm = new UsersRegistration();
                 frm.setVisible(true);
-                String add1 = rs.getString("Username");
+                String add1 = rs.getString("username");
                 frm.txtUserName.setText(add1);
-                String add2 = rs.getString("Password");
+                String add2 = rs.getString("user_password");
                 frm.txtPassword.setText(add2);
                 String add3 = rs.getString("NameOfUser");
                 frm.txtName.setText(add3);
