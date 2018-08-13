@@ -1,0 +1,10 @@
+C:\Users\Truth\.m2\repository\org\vaadin\spring
+		parent-pom.zip
+		
+C:\Users\Truth\.m2\repository\org\vaadin\spring\samples
+		samples-parent-pom.zip
+C:\Users\Truth\.m2\repository\org\vaadin\spring
+		extensions.zip
+F:\DEV\PROD\vaadin4spring
+		vaadin4spring.zip
+		
